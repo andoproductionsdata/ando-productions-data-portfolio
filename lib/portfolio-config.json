@@ -1,25 +1,46 @@
 {
   "profile": {
-    "name": "Your Name",
+    "name": "Ando Productions",
     "role": "Data Analyst",
-    "tagline": "Turning raw data into clear, actionable insight.",
-    "email": "hello@example.com",
-    "phone": "+1 (555) 000-0000",
-    "linkedin": "https://www.linkedin.com/in/yourprofile",
-    "github": "https://github.com/yourusername",
+    "tagline": "Turning raw data into powerful insights",
+    "email": "andoproductions@hotmail.com",
+    "phone": "0400000000",
+    "linkedin": "",
+    "github": "https://github.com/andoproductionsdata",
     "photoUrl": "/ando-headshot.jpeg",
     "resumeUrl": "/resume-placeholder.pdf",
     "openToWork": true,
-    "availability": "Available for contract & full-time roles"
+    "availability": ""
   },
   "technicalSkills": [
-    { "name": "SQL", "description": "Data cleaning, joins, CTEs, query optimisation" },
-    { "name": "Power BI", "description": "DAX, interactive dashboards, data modelling" },
-    { "name": "Tableau", "description": "Advanced visualisations, calculated fields, parameters" },
-    { "name": "Python", "description": "Pandas, NumPy, Matplotlib, data automation" },
-    { "name": "Excel", "description": "Pivot tables, Power Query, formulas, data validation" }
+    {
+      "name": "SQL",
+      "description": "Data cleaning, joins, CTEs, query optimisation"
+    },
+    {
+      "name": "Power BI",
+      "description": "DAX, interactive dashboards, data modelling"
+    },
+    {
+      "name": "Tableau",
+      "description": "Advanced visualisations, calculated fields, parameters"
+    },
+    {
+      "name": "Python",
+      "description": "Pandas, NumPy, Matplotlib, data automation"
+    },
+    {
+      "name": "Excel",
+      "description": "Pivot tables, Power Query, formulas, data validation"
+    }
   ],
-  "tools": ["Microsoft SQL Server", "Power BI", "Tableau", "VS Code", "Jupyter Notebook"],
+  "tools": [
+    "Microsoft SQL Server",
+    "Power BI",
+    "Tableau",
+    "VS Code",
+    "Jupyter Notebook"
+  ],
   "certifications": [
     {
       "name": "Certification Name",
@@ -30,18 +51,51 @@
   ],
   "projects": [
     {
-      "slug": "my-first-project",
-      "title": "My First Project",
-      "company": "Company Name",
-      "industry": "Industry",
+      "slug": "energy-kpi-dashboard",
+      "title": "Energy KPI Dashboard",
+      "company": "Energy Plus",
+      "industry": "Energy",
       "role": "Data Analyst",
-      "duration": "4 weeks",
-      "summary": "A short summary of the project and its business goal.",
-      "tools": ["SQL", "Power BI"],
+      "duration": "5 Weeks",
+      "summary": "Test",
+      "tools": [
+        "Power bi"
+      ],
       "preview": "/placeholder.svg",
-      "challenge": ["Describe the business problem here."],
-      "whatIBuilt": ["Describe what you built."],
-      "outcome": ["Describe the results."],
+      "challenge": [
+        "Test"
+      ],
+      "whatIBuilt": [
+        "A powerful dashbaord"
+      ],
+      "outcome": [
+        "This is what I DID"
+      ],
+      "keyDeliverables": [],
+      "impact": [],
+      "githubUrl": null,
+      "liveUrl": null,
+      "gallery": []
+    },
+    {
+      "slug": "project-2",
+      "title": "Project 2",
+      "company": "",
+      "industry": "",
+      "role": "Data Analyst",
+      "duration": "",
+      "summary": "",
+      "tools": [],
+      "preview": "/placeholder.svg",
+      "challenge": [
+        ""
+      ],
+      "whatIBuilt": [
+        ""
+      ],
+      "outcome": [
+        ""
+      ],
       "keyDeliverables": [],
       "impact": [],
       "githubUrl": null,
